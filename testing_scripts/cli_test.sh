@@ -19,7 +19,7 @@ fi
 
 echo -e "localhost:9000" > hashstore_client_config
 
-small_file=test_files/funni.gif
+small_file=test_files/bubble.gif
 big_file="test_files/big file.m4a"
 repl_commands="testing_scripts/repl_commands"
 
