@@ -1,0 +1,7 @@
+list
+del -i last
+del -i last
+del -i last
+list
+say-server
+exit
