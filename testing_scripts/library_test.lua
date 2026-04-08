@@ -3,7 +3,7 @@ local client = dofile(script_path.."../client_hashstore.lua")
 
 local files = {
     music = "big file.m4a",
-    gif = "funni.gif",
+    gif = "bubble.gif",
 
     prefix = script_path.."../test_files/"
 }
